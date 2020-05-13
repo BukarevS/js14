@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "name": "123",
+      "surname": "321",
+      "phone": "321123",
+      "isUnderEditting": false,
+      "id": 2
+    },
+    {
+      "name": "456",
+      "surname": "654",
+      "phone": "456654",
+      "isUnderEditting": false,
+      "id": 3
+    },
+    {
+      "name": "Лев ",
+      "surname": "Дрищь",
+      "phone": "12345",
+      "isUnderEditting": false,
+      "id": 4
+    }
+  ]
+}
